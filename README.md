@@ -1,2 +1,2 @@
 # Automated-Emails
-Email automation small script using Python to send plain emails.
+A script that sends automatically an email to a list of users with specific reference and an attachment.
